@@ -1,6 +1,6 @@
 # Nafaz Rahi — Portfolio
 
-A dark, editorial-style personal portfolio built with React, Vite and Framer Motion.
+A personal portfolio built with React, Vite and Framer Motion.
 
 ## Run locally
 
